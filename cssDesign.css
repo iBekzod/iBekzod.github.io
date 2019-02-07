@@ -10,7 +10,16 @@ body {
 }
 
  .links{
+ 	text-decoration: none;
     color: #FF4F4C;
+}
+ ol li a:hover {
+	text-decoration: underline;
+    color: #FF4F4C;
+}
+.myDropCap{
+	padding: 3px;
+	font-size: 30px;
 }
 
 .imglinks{
